@@ -1,5 +1,16 @@
-    
-# Goal: Line waiting
+# REPRODUCTION
+
+Install Node
+
+Install Polymer-cli
+
+  $ npm install -g polymer-cli@next
+
+Install Dependencies
+
+  $ npm install
+
+# Goals: Line waiting
     zero skilled labour
     money for time
       
