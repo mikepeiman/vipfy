@@ -12,7 +12,7 @@ Install Dependencies
 
 # Goals: Line waiting
     zero skilled labour
-    money for time
+    money for time / time for money
       
 # Google Map API
     set / create locations
@@ -26,7 +26,6 @@ Install Dependencies
     map landing page
     my account - controls
     create
-
 
 # Firebase Authentication
     Google
