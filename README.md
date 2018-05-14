@@ -22,10 +22,10 @@ Install Dependencies
     location depentant prices
 
 # Pages
-    Login / sign up / membership
     map landing page
-    my account - controls
-    create
+    Login / sign up / membership
+    my account - task commissioned, assigned, rating, personal info
+    tasks - create, view, edit
 
 # Firebase Authentication
     Google
@@ -37,13 +37,13 @@ Install Dependencies
     rating system / reputation
     client / buyer
     prices
-    location 
+    locations
 
 # Financial Payment System
     Create wallet
     paypal
     email transactions
-    strike
+    stripe
 
 # [NODEJS](https://nodejs.org/en/)
 
